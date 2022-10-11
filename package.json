@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/testStatusCheck1/github-status-check2#readme",
   "dependencies": {
-    "color": "^0.11.0"
+    "color": "^0.11.0",
+    "lodash": "^4.17.19"
   }
 }
