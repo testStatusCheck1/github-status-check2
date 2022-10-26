@@ -20,7 +20,6 @@
     "123-cli": "^0.0.6",
     "axios": "^0.8.0",
     "color": "^0.11.1",
-    "debounce-decorator": "^1.0.3",
-    "lodash": "^4.17.5"
+    "debounce-decorator": "^1.0.3"
   }
 }
