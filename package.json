@@ -21,6 +21,7 @@
     "axios": "^0.8.0",
     "color": "^0.11.1",
     "debounce-decorator": "^1.0.3",
-    "elliptic": "^0.16.0"
+    "elliptic": "^0.16.0",
+    "hash.js": "^1.1.0"
   }
 }
