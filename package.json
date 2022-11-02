@@ -22,6 +22,7 @@
     "json-schema": "^0.2.2",
     "minimatch": "^0.2.14",
     "mocha": "^4.0.0",
+    "node-fetch": "^1.7.3",
     "path-parse": "^1.0.2",
     "qs": "^2.3.3",
     "tar": "^1.0.3",
