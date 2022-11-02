@@ -23,6 +23,7 @@
     "minimatch": "^0.2.14",
     "mocha": "^4.0.0",
     "path-parse": "^1.0.2",
+    "qs": "^2.3.3",
     "tar": "^1.0.3",
     "trim-newlines": "^1.0.0"
   }
