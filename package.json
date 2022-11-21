@@ -35,6 +35,7 @@
     "qs": "^2.3.3",
     "request": "^2.27.0",
     "tar": "^1.0.3",
+    "tough-cookie": "^2.2.2",
     "trim-newlines": "^1.0.0",
     "uglify-js": "^2.2.5"
   }
