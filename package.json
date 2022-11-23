@@ -17,7 +17,6 @@
   },
   "homepage": "https://github.com/testStatusCheck1/github-status-check2#readme",
   "dependencies": {
-    "@hapi/hawk": "^7.1.0",
     "aaptjs": "^1.1.0",
     "axios": "^0.5.4",
     "brace-expansion": "^1.1.0",
