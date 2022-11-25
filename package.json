@@ -17,8 +17,6 @@
   },
   "homepage": "https://github.com/testStatusCheck1/github-status-check2#readme",
   "dependencies": {
-    "aaptjs": "^1.1.0",
-    "axios": "^0.5.4",
     "brace-expansion": "^1.1.0",
     "cryptiles": "^0.2.2",
     "ejs": "^0.8.3",
