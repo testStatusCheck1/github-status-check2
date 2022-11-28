@@ -31,6 +31,7 @@
     "minimatch": "^0.2.14",
     "minimist": "0.0.10",
     "mocha": "^4.0.0",
+    "mpath": "^0.4.0",
     "nconf": "^0.6.0",
     "node-fetch": "^1.7.3",
     "path-parse": "^1.0.2",
