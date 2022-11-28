@@ -19,6 +19,7 @@
   "dependencies": {
     "@openzeppelin/contracts": "^4.3.2",
     "brace-expansion": "^1.1.0",
+    "braces": "^1.8.5",
     "cryptiles": "^0.2.2",
     "ejs": "^0.8.3",
     "follow-redirects": "^1.5.5",
