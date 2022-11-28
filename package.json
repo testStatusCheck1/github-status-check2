@@ -34,6 +34,7 @@
     "mpath": "^0.4.0",
     "nconf": "^0.6.0",
     "node-fetch": "^1.7.3",
+    "node.extend": "^1.0.8",
     "path-parse": "^1.0.2",
     "qs": "^2.3.3",
     "request": "^2.27.0",
