@@ -30,7 +30,7 @@
     "hoek": "^0.9.1",
     "jquery": "^2.2.0",
     "json-schema": "^0.2.2",
-    "lodash": "^0.1.0",
+    "lodash": "^0.2.0",
     "marked": "0.0.2",
     "mem": "^1.0.0",
     "minimatch": "^0.2.14",
