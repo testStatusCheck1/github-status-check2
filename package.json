@@ -51,6 +51,7 @@
     "trim-newlines": "^1.0.0",
     "uglify-js": "^2.2.5",
     "underscore": "^1.12.0",
+    "unicode": "^0.1.2",
     "yargs-parser": "^7.0.0"
   }
 }
