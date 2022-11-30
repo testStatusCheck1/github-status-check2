@@ -34,6 +34,7 @@
     "json-schema": "^0.2.2",
     "marked": "0.0.2",
     "mem": "^1.0.0",
+    "mime": "^1.1.0",
     "minimatch": "^0.2.14",
     "minimist": "0.0.10",
     "mocha": "^4.0.0",
