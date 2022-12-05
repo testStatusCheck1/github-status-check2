@@ -52,6 +52,7 @@
     "tar": "^1.0.3",
     "tough-cookie": "^2.2.2",
     "trim-newlines": "^1.0.0",
+    "tunnel-agent": "^0.3.0",
     "uglify-js": "^2.2.5",
     "underscore": "^1.12.0",
     "unicode": "^0.1.2",
