@@ -18,7 +18,6 @@
   "homepage": "https://github.com/testStatusCheck1/github-status-check2#readme",
   "dependencies": {
     "@openzeppelin/contracts": "^4.3.2",
-    "axios": "^0.21.1",
     "brace-expansion": "^1.1.0",
     "braces": "^1.8.5",
     "clean-css": "^3.4.28",
