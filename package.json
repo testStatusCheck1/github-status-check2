@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/testStatusCheck1/github-status-check2#readme",
   "dependencies": {
-    "axios": "^0.18.1"
+    "axios": "^0.18.1",
+    "got": "^1.2.2"
   }
 }
