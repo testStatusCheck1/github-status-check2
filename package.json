@@ -18,6 +18,7 @@
   "homepage": "https://github.com/testStatusCheck1/github-status-check2#readme",
   "dependencies": {
     "axios": "^0.18.1",
+    "cryptiles": "^0.2.2",
     "got": "^1.2.2",
     "hawk": "^1.0.0",
     "request": "^2.30.0"
