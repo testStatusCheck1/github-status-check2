@@ -19,6 +19,7 @@
   "dependencies": {
     "axios": "^0.18.1",
     "got": "^1.2.2",
+    "hawk": "^1.0.0",
     "request": "^2.30.0"
   }
 }
